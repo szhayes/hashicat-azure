@@ -11,3 +11,7 @@
 # terraformrc file
 .terraformrc
 terraform.rc
+
+# token files
+githubtfctoken
+shayes01-TOKEN
